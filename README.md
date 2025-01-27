@@ -201,15 +201,6 @@ However below configuration is working for the specified laptop.
 
 <details>
 <summary>
-    <strong>PlatformInfo</strong>
-</summary>
-
- **Note**: You need to generate your own values for `SystemProductName`, `SystemSerialNumber`, `MLB` and `SystemUUID` using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
-
-</details>
-
-<details>
-<summary>
     <strong>UEFI</strong>
 </summary>
 
