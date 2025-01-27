@@ -8,7 +8,7 @@
 ## Introduction
 
 **DISCLAIMER:**
-Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) guide before you start. I'm not responsible for any damage.
+Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) guide before you start.
 If you think that configuration is useful for you, consider to give a star for this repository :).
 
 <details>
